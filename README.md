@@ -6,7 +6,7 @@ Instructor: [Bina Ramamurthy](https://www.coursera.org/instructor/~5767003)
 
 ## 1. Introduction
 
-This repo contains all my work for this specialization. All the notes, reference materials, code base, quiz questions, screenshot, and images, are taken from, unless specified, [Blockchain Specialization on Coursera](https://www.coursera.org/specializations/blockchain#about). 
+This repo contains all my work for this specialization. All the notes, reference materials, code base, quiz questions, u4hrscreenshot, and images, are taken from, unless specified, [Blockchain Specialization on Coursera](https://www.coursera.org/specializations/blockchain#about). 
 
 > **NOTE**: Key takeaways from blockchain-related concepts and state-of-the-art blockchains are also continuously updated and included in this repository.
 
