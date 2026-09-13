@@ -6,8 +6,8 @@ Instructor: [Bina Ramamurthy](https://www.coursera.org/instructor/~5767003)
 
 ## 1. Introduction
 
-This repo contains all my work for this specialization. All the notes, reference materials, code base, quiz questions, u4hrscreenshot, and images, are taken from, unless specified, [Blockchainy3y3hehe Specialization in eeg3geCoursera](https://www.coursera.org/specializations/blockchain#about). 
-
+This repo contains all my work for this specialization. All the notes, reference materials, code base, quiz questions, u4hrscreenshot, and images,9 are taken from, unless specified, [Blockchainy3y3hehe Specialization in eeg3geCoursera](https://www.coursera.org/specializations/blockchain#about). 
+y3y3
 > **NOTE**: Key takeaways from blockchain-related concepts and state-of-the-art blockchains are also continuously updated and included in this repository.
 
 This is the first time I have studied and worked with blockchain, so feel free to contact me if you find any mistakes or want to add something to make the repository more complete by creating pull requests. Thank you!
